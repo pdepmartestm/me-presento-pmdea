@@ -1,4 +1,5 @@
 ### Pedro Martinez de Aguirre Fernandes
+![Texto alternativo](./imgs/foto.jpeg)
 ### Legajo: 172552
 
 ### Skills
