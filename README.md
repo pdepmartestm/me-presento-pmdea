@@ -1,5 +1,5 @@
-## Pedro Martinez de Aguirre Fernandes
-## Legajo: 172552
+### Pedro Martinez de Aguirre Fernandes
+### Legajo: 172552
 
 ### Skills
 - Desarrollador full-stack hace 3 años trabajando.
