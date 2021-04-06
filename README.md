@@ -1,4 +1,3 @@
-# me-presento-pmdea
 ## Pedro Martinez de Aguirre Fernandes
 ## Legajo: 172552
 
